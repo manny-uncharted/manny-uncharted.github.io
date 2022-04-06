@@ -2,11 +2,12 @@
 
 ### I'm a python developer and a Machine Learning Engineer.
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manny-uncharted&theme=dark)](https://git.io/streak-stats)
 
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manny_uncharted)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manny_uncharted)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny_uncharted&langs_count=8)
 
 ```markdown
 Syntax highlighted code block
