@@ -2,8 +2,8 @@
 
 ### I'm a python developer and a Machine Learning Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&show_icons=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs)
