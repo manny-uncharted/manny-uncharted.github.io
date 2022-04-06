@@ -3,10 +3,10 @@
 ### I'm a python developer and a Machine Learning Engineer.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&show_icons=true)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs)
+## My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manny_uncharted)
 
 ```markdown
 Syntax highlighted code block
