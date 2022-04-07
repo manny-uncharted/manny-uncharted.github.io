@@ -16,4 +16,4 @@
 
 
 
-![snake gif](https://github.com/manny-uncharted/snake-gen/tree/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/manny-uncharted/snake-gen/blob/output/github-contribution-grid-snake.gif)
