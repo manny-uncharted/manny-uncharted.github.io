@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs&show_icons=true)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manny_uncharted) -->
@@ -11,3 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-uncharted&langs_count=4)
 
 
+
+![snake gif](https://github.com/manny-uncharted/snake-gen/tree/output/github-contribution-grid-snake.gif)
