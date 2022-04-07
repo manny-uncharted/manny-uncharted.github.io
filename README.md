@@ -1,5 +1,7 @@
 ## **Hi, ✌ I'm Manny_Uncharted**
 
+## My fullname is Emmanuel Akanji
+
 ### I'm a python developer and a Machine Learning Engineer.
 
 🔭 I’m currently working on a creating a face-oauth system
