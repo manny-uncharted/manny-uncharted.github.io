@@ -7,7 +7,7 @@ const moocscards = [
   {
     title: "MGF Future Fit Program: 2019",
     cardImage: "assets/images/education-page/misk.png",
-    moocLink: "https://www.coursera.org/browse/data-sciencehttps://miskglobalforum.com",
+    moocLink: "https://miskglobalforum.com",
   {
     title: "Learn Power BI Basics for Free",
     cardImage: "assets/images/education-page/udemy.svg",
