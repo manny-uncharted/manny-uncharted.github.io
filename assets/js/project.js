@@ -48,19 +48,17 @@ const projects = [
   {
     title: "Configuring a Load balancer using Apache",
     cardImage: "assets/images/project-page/balancer.png",
-    description:
-      "Configured a load balancer using Apache and deployed a website across two different servers.",
+    description:"Configured a load balancer using Apache and deployed a website across two different servers.",
     tagimg: "https://www.tibco.com/sites/tibco/files/media_entity/2021-04/Dev-ops-01.svg",
     Previewlink: "",
     Githublink: "https://github.com/manny-uncharted/configuring-apache-as-a-load-balancer",
   },
   {
     title: "Configured a Network File System Server",
-    cardImage: "assets/images/project-page/minesweeper.jpg",
+    cardImage: "assets/images/project-page/nfs.png",
     description:
       "Configured a network file system server using NFS and deployed a website across two different servers.",
-    tagimg:
-      "https://www.tibco.com/sites/tibco/files/media_entity/2021-04/Dev-ops-01.svg",
+    tagimg: "https://www.tibco.com/sites/tibco/files/media_entity/2021-04/Dev-ops-01.svg",
     Previewlink: "",
     Githublink: "https://github.com/manny-uncharted/project-7-DEVOPS-TOOLING-WEBSITE-SOLUTION",
   },
@@ -77,8 +75,7 @@ const projects = [
     title: "Simple Course Recommendation System",
     cardImage: "assets/images/project-page/course.png",
     description: "Built using Scikit-learn, Streamlit and the Udemy data set.",
-    tagimg:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSltxJb797uliJ7YCpCsmiJZjtzfWwWdaFCPAyezXtbodSKEWyDeu5qk9pGn7nTqMDJ_Bw&usqp=CAU",
+    tagimg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSltxJb797uliJ7YCpCsmiJZjtzfWwWdaFCPAyezXtbodSKEWyDeu5qk9pGn7nTqMDJ_Bw&usqp=CAU",
     Previewlink: "",
     Githublink: "https://github.com/manny-uncharted/simple-course-recommender",
   },
